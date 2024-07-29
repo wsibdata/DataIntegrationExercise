@@ -1,0 +1,85 @@
+Date,TransactionType,Fund,Value
+2008-12-18,Return of Capital - Direct Investment,W63-ORR17,25.0
+2008-12-18,Capital Call - Direct Investment,W63-ORR17,-1920.0
+2008-12-18,Return of Capital - Direct Investment,W63-ORR17,236.0
+2009-01-07,Reported Market Value - Direct Asset,W63-ORR17,1850.0
+2009-01-28,Capital Call - Direct Investment,W63-ORR17,-406.0
+2009-01-28,Temporary Return of Capital - Direct Investment,W63-ORR17,369.0
+2009-01-28,Realized Gain/Loss - Direct Investment,W63-ORR17,6.0
+2009-01-28,Realized Gain/Loss - Direct Investment,W63-ORR17,-6.0
+2009-03-14,Capital Call - Direct Investment,W63-ORR17,-34.0
+2009-03-14,Temporary Return of Capital - Direct Investment,W63-ORR17,348.0
+2009-03-20,Return of Capital - Direct Investment,W63-ORR17,108.0
+2009-03-20,Realized Gain/Loss - Direct Investment,W63-ORR17,8.0
+2009-03-20,Capital Call - Direct Investment,W63-ORR17,-106.0
+2009-04-09,Reported Market Value - Direct Asset,W63-ORR17,1565.0
+2009-05-10,Return of Capital - Direct Investment,W63-ORR17,76.0
+2009-05-10,Capital Call - Direct Investment,W63-ORR17,-88.0
+2009-05-28,Capital Call - Direct Investment,W63-ORR17,-242.0
+2009-06-12,Capital Call - Direct Investment,W63-ORR17,-334.0
+2009-06-19,Return of Capital - Direct Investment,W63-ORR17,18.0
+2009-06-19,Realized Gain/Loss - Direct Investment,W63-ORR17,14.0
+2009-07-10,Reported Market Value - Direct Asset,W63-ORR17,2170.0
+2009-08-08,Return of Capital - Direct Investment,W63-ORR17,80.0
+2009-08-08,Capital Call - Direct Investment,W63-ORR17,-104.0
+2009-09-10,Capital Call - Direct Investment,W63-ORR17,-104.0
+2009-10-08,Reported Market Value - Direct Asset,W63-ORR17,2410.0
+2009-10-21,Capital Call - Direct Investment,W63-ORR17,-164.0
+2009-10-30,Return of Capital - Direct Investment,W63-ORR17,94.0
+2009-11-22,Return of Capital - Direct Investment,W63-ORR17,48.0
+2009-11-22,Capital Call - Direct Investment,W63-ORR17,-1371.0
+2010-01-07,Reported Market Value - Direct Asset,W63-ORR17,6313.0
+2010-03-13,Income - Direct Investment,W63-ORR17,44.0
+2010-04-09,Reported Market Value - Direct Asset,W63-ORR17,3749.0
+2010-05-20,Return of Capital - Direct Investment,W63-ORR17,4364.0
+2010-05-20,Capital Call - Direct Investment,W63-ORR17,-4364.0
+2010-06-09,Income - Direct Investment,W63-ORR17,91.0
+2010-07-10,Reported Market Value - Direct Asset,W63-ORR17,3118.0
+2010-09-12,Return of Capital - Direct Investment,W63-ORR17,2.0
+2010-10-06,Income - Direct Investment,W63-ORR17,84.0
+2010-10-09,Reported Market Value - Direct Asset,W63-ORR17,2521.0
+2010-12-09,Income - Direct Investment,W63-ORR17,75.0
+2011-01-08,Reported Market Value - Direct Asset,W63-ORR17,2494.0
+2011-03-09,Income - Direct Investment,W63-ORR17,57.0
+2011-04-10,Reported Market Value - Direct Asset,W63-ORR17,2153.0
+2011-06-10,Return of Capital - Direct Investment,W63-ORR17,22.0
+2011-06-10,Income - Direct Investment,W63-ORR17,17.0
+2011-07-11,Reported Market Value - Direct Asset,W63-ORR17,1548.0
+2011-09-28,Income - Direct Investment,W63-ORR17,15.0
+2011-09-28,Return of Capital - Direct Investment,W63-ORR17,40.0
+2011-10-09,Reported Market Value - Direct Asset,W63-ORR17,2470.0
+2011-12-04,Return of Capital - Direct Investment,W63-ORR17,14.0
+2011-12-04,Income - Direct Investment,W63-ORR17,6.0
+2012-01-08,Reported Market Value - Direct Asset,W63-ORR17,959.0
+2012-03-07,Return of Capital - Direct Investment,W63-ORR17,23.0
+2012-03-07,Income - Direct Investment,W63-ORR17,17.0
+2012-04-09,Reported Market Value - Direct Asset,W63-ORR17,2180.0
+2012-05-27,Income - Direct Investment,W63-ORR17,4.0
+2012-05-27,Return of Capital - Direct Investment,W63-ORR17,2.0
+2012-07-10,Reported Market Value - Direct Asset,W63-ORR17,358.0
+2012-10-04,Return of Capital - Direct Investment,W63-ORR17,6.0
+2012-10-04,Income - Direct Investment,W63-ORR17,4.0
+2012-10-08,Reported Market Value - Direct Asset,W63-ORR17,518.0
+2012-12-06,Income - Direct Investment,W63-ORR17,-7.0
+2013-01-07,Reported Market Value - Direct Asset,W63-ORR17,-377.0
+2013-03-07,Return of Capital - Direct Investment,W63-ORR17,-1.0
+2013-03-07,Income - Direct Investment,W63-ORR17,-2.0
+2013-04-09,Reported Market Value - Direct Asset,W63-ORR17,-168.0
+2013-06-06,Income - Direct Investment,W63-ORR17,-24.0
+2013-07-10,Reported Market Value - Direct Asset,W63-ORR17,-1051.0
+2013-10-04,Income - Direct Investment,W63-ORR17,-35.0
+2013-10-08,Reported Market Value - Direct Asset,W63-ORR17,-1789.0
+2013-12-05,Income - Direct Investment,W63-ORR17,-41.0
+2014-01-07,Reported Market Value - Direct Asset,W63-ORR17,-1853.0
+2014-03-06,Income - Direct Investment,W63-ORR17,-39.0
+2014-04-09,Reported Market Value - Direct Asset,W63-ORR17,-1789.0
+2014-06-06,Income - Direct Investment,W63-ORR17,-12.0
+2014-07-10,Reported Market Value - Direct Asset,W63-ORR17,-707.0
+2014-10-03,Income - Direct Investment,W63-ORR17,-26.0
+2014-10-09,Reported Market Value - Direct Asset,W63-ORR17,-648.0
+2014-12-05,Income - Direct Investment,W63-ORR17,-39.0
+2015-01-08,Reported Market Value - Direct Asset,W63-ORR17,-1542.0
+2015-03-11,Income - Direct Investment,W63-ORR17,-39.0
+2015-04-10,Reported Market Value - Direct Asset,W63-ORR17,-1913.0
+2015-07-11,Reported Market Value - Direct Asset,W63-ORR17,-3715.0
+2015-10-09,Reported Market Value - Direct Asset,W63-ORR17,-4197.0

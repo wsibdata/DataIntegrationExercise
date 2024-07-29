@@ -1,0 +1,142 @@
+Date,TransactionType,Fund,Value
+2011-06-11,Reported Market Value,XXG-YRUDX,0.0
+2011-06-12,Commitment Amount,XXG-YRUDX,11095.0
+2011-07-01,Late Closing Interest - Contribution,XXG-YRUDX,-70.0
+2011-07-01,Management Fee,XXG-YRUDX,-114.0
+2011-07-01,Capital Call,XXG-YRUDX,-2022.0
+2011-07-01,Recallable Return of Capital,XXG-YRUDX,47.0
+2011-07-11,Reported Market Value,XXG-YRUDX,1945.0
+2011-10-09,Reported Market Value,XXG-YRUDX,2039.0
+2012-01-08,Reported Market Value,XXG-YRUDX,2216.0
+2012-02-04,Capital Call,XXG-YRUDX,-769.0
+2012-02-04,Partnership Expenses,XXG-YRUDX,-164.0
+2012-02-04,Recallable Return of Capital,XXG-YRUDX,23.0
+2012-02-04,Management Fee,XXG-YRUDX,-119.0
+2012-04-04,Management Fee,XXG-YRUDX,-40.0
+2012-04-04,Recallable Return of Capital,XXG-YRUDX,15.0
+2012-04-04,Recallable Income,XXG-YRUDX,72.0
+2012-04-09,Reported Market Value,XXG-YRUDX,3349.0
+2012-06-28,Temporary Return of Capital,XXG-YRUDX,904.0
+2012-06-28,Temporary Return of Capital,XXG-YRUDX,2.0
+2012-06-28,Late Closing Interest - Distribution,XXG-YRUDX,84.0
+2012-06-28,Recallable Return of Partnership Expenses,XXG-YRUDX,55.0
+2012-06-28,Capital Call,XXG-YRUDX,-19.0
+2012-06-28,Capital Call,XXG-YRUDX,-1083.0
+2012-07-10,Reported Market Value,XXG-YRUDX,3392.0
+2012-08-04,Management Fee,XXG-YRUDX,-39.0
+2012-08-04,Temporary Return of Capital,XXG-YRUDX,0.0
+2012-08-04,Recallable Income,XXG-YRUDX,44.0
+2012-08-04,Management Fee,XXG-YRUDX,24.0
+2012-08-04,Recallable Return of Capital,XXG-YRUDX,13.0
+2012-10-08,Reported Market Value,XXG-YRUDX,3420.0
+2012-11-18,Recallable Return of Capital,XXG-YRUDX,8.0
+2012-11-18,Management Fee,XXG-YRUDX,-40.0
+2013-01-07,Reported Market Value,XXG-YRUDX,3400.0
+2013-03-14,Management Fee,XXG-YRUDX,14.0
+2013-03-14,Capital Call,XXG-YRUDX,-26.0
+2013-03-14,Management Fee,XXG-YRUDX,-40.0
+2013-03-14,Partnership Expenses,XXG-YRUDX,-92.0
+2013-03-14,Capital Call,XXG-YRUDX,-3187.0
+2013-04-09,Reported Market Value,XXG-YRUDX,7028.0
+2013-05-05,Late Closing Interest - Distribution,XXG-YRUDX,15.0
+2013-05-05,Temporary Return of Capital,XXG-YRUDX,2.0
+2013-05-05,Recallable Return of Partnership Expenses,XXG-YRUDX,18.0
+2013-05-05,Capital Call,XXG-YRUDX,-6.0
+2013-05-05,Temporary Return of Capital,XXG-YRUDX,240.0
+2013-05-11,Capital Call,XXG-YRUDX,-87.0
+2013-05-11,Management Fee,XXG-YRUDX,24.0
+2013-05-11,Capital Call,XXG-YRUDX,-1.0
+2013-05-11,Management Fee,XXG-YRUDX,-40.0
+2013-05-11,Recallable Return of Capital,XXG-YRUDX,413.0
+2013-05-11,Recallable Income,XXG-YRUDX,94.0
+2013-07-10,Reported Market Value,XXG-YRUDX,6570.0
+2013-08-14,Management Fee,XXG-YRUDX,1.0
+2013-08-14,Capital Call,XXG-YRUDX,-0.0
+2013-08-14,Recallable Income,XXG-YRUDX,79.0
+2013-08-14,Recallable Realized Gain/Loss,XXG-YRUDX,53.0
+2013-08-14,Recallable Return of Capital,XXG-YRUDX,150.0
+2013-08-14,Management Fee,XXG-YRUDX,-39.0
+2013-08-14,Capital Call,XXG-YRUDX,-56.0
+2013-10-08,Reported Market Value,XXG-YRUDX,6562.0
+2013-11-23,Recallable Return of Capital,XXG-YRUDX,153.0
+2013-11-23,Recallable Income,XXG-YRUDX,125.0
+2013-11-23,Capital Call,XXG-YRUDX,-0.0
+2013-11-23,Withholding Tax,XXG-YRUDX,-0.0
+2013-11-23,Management Fee,XXG-YRUDX,0.0
+2013-11-23,Partnership Expenses,XXG-YRUDX,-35.0
+2013-11-23,Management Fee,XXG-YRUDX,-40.0
+2013-11-23,Capital Call,XXG-YRUDX,-42.0
+2014-01-07,Reported Market Value,XXG-YRUDX,6585.0
+2014-02-23,Recallable Income,XXG-YRUDX,78.0
+2014-02-23,Recallable Realized Gain/Loss,XXG-YRUDX,40.0
+2014-02-23,Recallable Return of Capital,XXG-YRUDX,194.0
+2014-02-23,Management Fee,XXG-YRUDX,1.0
+2014-02-23,Withholding Tax,XXG-YRUDX,-0.0
+2014-02-23,Capital Call,XXG-YRUDX,-1.0
+2014-02-23,Management Fee,XXG-YRUDX,-40.0
+2014-02-23,Capital Call,XXG-YRUDX,-98.0
+2014-04-02,Partnership Expenses,XXG-YRUDX,-59.0
+2014-04-02,Capital Call,XXG-YRUDX,-855.0
+2014-04-02,Capital Call,XXG-YRUDX,-7.0
+2014-04-09,Reported Market Value,XXG-YRUDX,7517.0
+2014-07-02,Recallable Return of Capital,XXG-YRUDX,170.0
+2014-07-02,Capital Call,XXG-YRUDX,-112.0
+2014-07-02,Management Fee,XXG-YRUDX,-40.0
+2014-07-02,Recallable Income,XXG-YRUDX,59.0
+2014-07-02,Withholding Tax,XXG-YRUDX,-0.0
+2014-07-02,Capital Call,XXG-YRUDX,-1.0
+2014-07-02,Partnership Expenses,XXG-YRUDX,-15.0
+2014-07-02,Management Fee,XXG-YRUDX,8.0
+2014-07-10,Reported Market Value,XXG-YRUDX,7953.0
+2014-08-09,Recallable Income,XXG-YRUDX,2.0
+2014-08-09,Recallable Return of Capital,XXG-YRUDX,224.0
+2014-08-09,Management Fee,XXG-YRUDX,-40.0
+2014-08-09,Partnership Expenses,XXG-YRUDX,-62.0
+2014-10-09,Reported Market Value,XXG-YRUDX,7841.0
+2014-11-02,Recallable Return of Capital,XXG-YRUDX,1338.0
+2014-11-02,Recallable Realized Gain/Loss,XXG-YRUDX,697.0
+2014-11-02,Recallable Interest Income,XXG-YRUDX,119.0
+2014-11-15,Recallable Realized Gain/Loss,XXG-YRUDX,95.0
+2014-11-15,Recallable Dividend Income,XXG-YRUDX,88.0
+2014-11-15,Management Fee,XXG-YRUDX,-40.0
+2014-11-15,Withholding Tax,XXG-YRUDX,0.0
+2014-11-15,Management Fee,XXG-YRUDX,0.0
+2014-11-15,Capital Call,XXG-YRUDX,-0.0
+2014-11-15,Withholding Tax,XXG-YRUDX,-0.0
+2014-11-15,Recallable Return of Capital,XXG-YRUDX,198.0
+2014-11-15,Capital Call,XXG-YRUDX,-7.0
+2015-01-08,Capital Call,XXG-YRUDX,-15.0
+2015-01-08,Capital Call,XXG-YRUDX,-1873.0
+2015-01-08,Reported Market Value,XXG-YRUDX,7136.0
+2015-02-28,Management Fee,XXG-YRUDX,15.0
+2015-02-28,Capital Call,XXG-YRUDX,-22.0
+2015-02-28,Management Fee,XXG-YRUDX,-40.0
+2015-02-28,Recallable Return of Capital,XXG-YRUDX,145.0
+2015-02-28,Recallable Interest Income,XXG-YRUDX,15.0
+2015-02-28,Temporary Return of Capital,XXG-YRUDX,4.0
+2015-02-28,Recallable Dividend Income,XXG-YRUDX,4.0
+2015-02-28,Withholding Tax,XXG-YRUDX,-1.0
+2015-04-10,Reported Market Value,XXG-YRUDX,7265.0
+2015-06-05,Recallable Return of Capital,XXG-YRUDX,238.0
+2015-06-05,Realized Gain/Loss,XXG-YRUDX,21.0
+2015-06-05,Recallable Dividend Income,XXG-YRUDX,15.0
+2015-06-05,Management Fee,XXG-YRUDX,15.0
+2015-06-05,Income,XXG-YRUDX,1.0
+2015-06-05,Withholding Tax,XXG-YRUDX,-0.0
+2015-06-05,Recallable Interest Income,XXG-YRUDX,30.0
+2015-06-05,Management Fee,XXG-YRUDX,-40.0
+2015-06-05,Capital Call,XXG-YRUDX,-1834.0
+2015-07-11,Reported Market Value,XXG-YRUDX,9140.0
+2015-08-29,Recallable Return of Partnership Expenses,XXG-YRUDX,2.0
+2015-08-29,Management Fee,XXG-YRUDX,2.0
+2015-08-29,Recallable Dividend Income,XXG-YRUDX,25.0
+2015-08-29,Capital Call,XXG-YRUDX,-12.0
+2015-08-29,Management Fee,XXG-YRUDX,-33.0
+2015-08-29,Recallable Return of Capital,XXG-YRUDX,194.0
+2015-10-09,Reported Market Value,XXG-YRUDX,9391.0
+2015-11-28,Capital Call,XXG-YRUDX,-63.0
+2015-11-28,Management Fee,XXG-YRUDX,-33.0
+2015-11-28,Management Fee,XXG-YRUDX,1.0
+2015-11-28,Withholding Tax,XXG-YRUDX,-1.0
+2015-11-28,Recallable Dividend Income,XXG-YRUDX,127.0
+2015-11-28,Recallable Return of Capital,XXG-YRUDX,31.0

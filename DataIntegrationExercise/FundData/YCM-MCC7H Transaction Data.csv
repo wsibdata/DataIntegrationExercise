@@ -1,0 +1,43 @@
+Date,TransactionType,Fund,Value
+2013-09-14,Reported Market Value,YCM-MCC7H,0.0
+2013-09-15,Commitment Amount,YCM-MCC7H,55475.0
+2013-11-16,Management Fee (outside commitment),YCM-MCC7H,-382.0
+2014-01-07,Reported Market Value,YCM-MCC7H,-25.0
+2014-03-22,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2014-04-09,Reported Market Value,YCM-MCC7H,-15.0
+2014-05-02,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2014-07-10,Reported Market Value,YCM-MCC7H,-48.0
+2014-08-03,Management Fee (outside commitment),YCM-MCC7H,9.0
+2014-08-03,Partnership Expenses,YCM-MCC7H,-31.0
+2014-08-03,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2014-10-09,Reported Market Value,YCM-MCC7H,-19.0
+2014-11-01,Management Fee (outside commitment),YCM-MCC7H,1.0
+2014-11-01,Partnership Expenses,YCM-MCC7H,-1.0
+2014-11-01,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2015-01-08,Reported Market Value,YCM-MCC7H,-24.0
+2015-01-21,Management Fee (outside commitment),YCM-MCC7H,2.0
+2015-01-21,Partnership Expenses,YCM-MCC7H,-11.0
+2015-01-21,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2015-04-10,Reported Market Value,YCM-MCC7H,-20.0
+2015-04-26,Management Fee (outside commitment),YCM-MCC7H,0.0
+2015-04-26,Partnership Expenses,YCM-MCC7H,-7.0
+2015-04-26,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2015-07-11,Reported Market Value,YCM-MCC7H,-25.0
+2015-08-08,Management Fee (outside commitment),YCM-MCC7H,52.0
+2015-08-08,Recallable Return of Partnership Expenses,YCM-MCC7H,0.0
+2015-08-08,Late Closing Interest - Distribution,YCM-MCC7H,0.0
+2015-08-08,Management Fee,YCM-MCC7H,-4.0
+2015-08-08,Partnership Expenses,YCM-MCC7H,-9.0
+2015-08-08,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2015-08-08,Capital Call,YCM-MCC7H,-3753.0
+2015-10-09,Reported Market Value,YCM-MCC7H,3729.0
+2015-10-29,Management Fee (outside commitment),YCM-MCC7H,2.0
+2015-10-29,Management Fee,YCM-MCC7H,-2.0
+2015-10-29,Partnership Expenses,YCM-MCC7H,-13.0
+2015-10-29,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2015-11-26,Capital Call,YCM-MCC7H,-2069.0
+2016-01-15,Capital Call,YCM-MCC7H,-3813.0
+2016-01-15,Management Fee (outside commitment),YCM-MCC7H,-180.0
+2016-01-15,Partnership Expenses,YCM-MCC7H,-22.0
+2016-01-15,Management Fee (outside commitment),YCM-MCC7H,77.0
+2016-01-15,Management Fee,YCM-MCC7H,-0.0
