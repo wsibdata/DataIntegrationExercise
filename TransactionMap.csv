@@ -1,0 +1,42 @@
+TransactionType,TranactionCategory
+Recallable Interest Income,Distribution
+Partnership Expenses (outside commitment),Call
+Credit Line - WSIB,Other
+Return of Partnership Expenses,Distribution
+Dividend Income,Distribution
+Late Closing Interest - Contribution,Call
+Carry,Distribution
+Management Fee,Call
+Realized Gain/Loss,Distribution
+Commitment Amount,Commitment
+Notional,Call
+Interest Income,Distribution
+Recallable Return of Management Fees,Distribution
+Unfunded Adjustment,Call
+Recallable Realized Gain/Loss,Distribution
+Realized Gain/Loss - Stock,Distribution
+Capital Call (Outside),Call
+Return of Capital,Distribution
+Temporary Return of Capital - Direct Investment,Call
+Reported Market Value,Market Value
+Temporary Return of Capital,Call
+Withholding Tax,Call
+Hamilton Lane Fees,Call
+Reported Market Value - Direct Asset,Market Value
+Capital Call - Direct Investment,Call
+Management Fee (outside commitment),Call
+Return of Capital - Stock,Distribution
+Recallable Return of Partnership Expenses,Distribution
+Recallable Dividend Income,Distribution
+Late Closing Interest - Distribution,Distribution
+Recallable Income,Distribution
+Income,Distribution
+Income - Direct Investment,Distribution
+Cost Basis Adjustment,Call
+Return of Capital - Direct Investment,Distribution
+Return of Management Fees,Distribution
+Recallable Return of Capital,Distribution
+Capital Call,Call
+Realized Gain/Loss - Direct Investment,Distribution
+Partnership Expenses,Call
+Cost Basis Offset,Call
