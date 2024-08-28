@@ -1,67 +1,54 @@
-﻿using System.Data;
-using System.Data.SqlClient;
+﻿using Microsoft.Data.SqlClient;
 
 
-namespace DataIntegrationExercise;
 
-class Program
+Console.WriteLine("Starting...");
+
+using SqlConnection connection = new("<DATABASE_CONNECTION_STRING>");
+
+try
 {
-    static string _connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=\DataIntegrationExercise\WsibFundData.mdf;User=SibUser01;Connect Timeout=30";
-    static string _directoryPath = @"..\..\..\FundData"; 
+    connection.Open();
 
-
-    public static async Task Main(string[] args)
+    foreach (var f in Directory.GetFiles(@"<DATA_FILE_DIRECTORY_PATH>"))
     {
-        Console.WriteLine("Starting data exercise.");
-
-        bool success = await LoadCsvFilesToDatabaseAsync();
+        using StreamReader sr = new(f);
+        string line;
+        int lineCount = 0;
+        while ((line = sr.ReadLine()) != null)
+        {
+            if (lineCount > 0) // Skip the header row (line 0)
+            {
+                string[] values = line.Split(',');
+                using SqlCommand cmdInsert = connection.CreateCommand();
+                cmdInsert.CommandText = "INSERT INTO FundData ([Date], [TransactionType], [Fund], [Value]) VALUES (@Date, @TransactionType, @Fund, @Value)";
+                cmdInsert.Parameters.AddWithValue("@Date", values[0]);
+                cmdInsert.Parameters.AddWithValue("@TransactionType", values[1]);
+                cmdInsert.Parameters.AddWithValue("@Fund", values[2]);
+                cmdInsert.Parameters.AddWithValue("@Value", values[3]);
+                cmdInsert.ExecuteNonQuery();
+            }
+            lineCount++;
+        }
     }
 
-    private static Task<bool> LoadCsvFilesToDatabaseAsync()
+
+    using SqlCommand command = connection.CreateCommand();
+    command.CommandText = "SELECT [Date], [TransactionType], [Fund], [Value] FROM FundData";
+
+    using SqlDataReader reader = command.ExecuteReader();
+    while (reader.Read())
     {
-        // Get all CSV files in the directory
-        string[] csvFiles = Directory.GetFiles(_directoryPath, "*.csv");
-
-        foreach (string csvFile in csvFiles)
-        {
-            // Read all lines from the CSV file
-            string[] lines = File.ReadAllLines(csvFile);
-
-            if (lines.Length > 0)
-            {
-                // Assume the first line contains the column names
-                string[] columnNames = lines[0].Split(',');
-
-                using SqlConnection connection = new(_connectionString);
-                connection.Open();
-
-                foreach (string? line in lines.Skip(1))
-                {
-                    string[] values = line.Split(',');
-
-                    using SqlCommand command = new();
-                    command.Connection = connection;
-
-                    // Build the INSERT command
-                    string insertCommand = "INSERT INTO dbo.FundDataTable (";
-                    insertCommand += string.Join(", ", columnNames);
-                    insertCommand += ") VALUES (";
-                    insertCommand += string.Join(", ", values.Select((v, i) => $"@param{i}"));
-                    insertCommand += ")";
-                    
-                    command.CommandText = insertCommand;
-                    
-                    // Add parameters
-                    for (int i = 0; i < values.Length; i++)
-                    {
-                        command.Parameters.AddWithValue($"@param{i}", values[i]);
-                    }
-                    
-                    command.ExecuteNonQuery();
-                }
-            }
-        }
-        return Task.FromResult(true);
+        Console.WriteLine(reader["Date"] + " " + reader["TransactionType"] + " " + reader["Fund"] + " " + reader["Value"]);
     }
 }
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+finally
+{
+    connection.Close();
+}
+
 

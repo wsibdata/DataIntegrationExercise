@@ -1,6 +1,5 @@
-﻿CREATE TABLE [dbo].[FundDataTable]
+﻿CREATE TABLE [dbo].[FundData]
 (
-	[Id] INT NOT NULL PRIMARY KEY, 
     [Date] NCHAR(10) NULL, 
     [TransactionType] NVARCHAR(100) NULL, 
     [Fund] NVARCHAR(50) NULL, 

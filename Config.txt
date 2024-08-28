@@ -1,0 +1,11 @@
+Candidate Interview Code Exercise
+
+Database connection string (C#):
+Server=SIBLT1107;Database=Candidate;Integrated Security=True;TrustServerCertificate=True
+
+Database connection string (Python):
+mssql+pyodbc:///?odbc_connect=DRIVER={ODBC Driver 17 for SQL Server};Server= SIBLT1107;Database= Candidate;Authentication=ActiveDirectoryIntegrated;TrustServerCertificate=yes
+
+Data file directory path:
+C:\Users\Ginterview126\source\FundData
+
